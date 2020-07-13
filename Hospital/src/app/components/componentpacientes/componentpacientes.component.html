@@ -1,0 +1,20 @@
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th># Seguro Social</th>
+                <th>Nombre Paciente</th>
+                <th>Cod. Postal</th>
+                <th>Telefono</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let array of rta">
+                <td>{{array.numSeguroSocial}}</td>
+                <td>{{array.nombre}}</td>
+                <td>{{array.codPostal}}</td>
+                <td>{{array.telefono}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

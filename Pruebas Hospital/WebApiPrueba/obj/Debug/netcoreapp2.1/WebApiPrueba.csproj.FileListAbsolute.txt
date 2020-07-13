@@ -1,0 +1,86 @@
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.deps.json
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.json
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.dev.json
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.dll
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csprojAssemblyReference.cache
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csproj.CoreCompileInputs.cache
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cache
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cs
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfoInputs.cache
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfo.cs
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorTargetAssemblyInfo.cache
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.pdb
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.dll
+C:\Users\894120\source\repos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.deps.json
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.json
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.dev.json
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\Pruebas\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csprojAssemblyReference.cache
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfoInputs.cache
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfo.cs
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cache
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cs
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Pruebas\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.genruntimeconfig.cache
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.deps.json
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.json
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.dev.json
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csprojAssemblyReference.cache
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfoInputs.cache
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfo.cs
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cache
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cs
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.genruntimeconfig.cache
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.deps.json
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.json
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.dev.json
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csprojAssemblyReference.cache
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfoInputs.cache
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfo.cs
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csproj.CoreCompileInputs.cache
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cache
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cs
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\Prueba NetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.genruntimeconfig.cache
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.deps.json
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.json
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.runtimeconfig.dev.json
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\bin\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csprojAssemblyReference.cache
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfoInputs.cache
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.AssemblyInfo.cs
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.csproj.CoreCompileInputs.cache
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cache
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorAssemblyInfo.cs
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.RazorTargetAssemblyInfo.cache
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.dll
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.pdb
+D:\Proyectos\PruebaNetCore\Pruebas Hospital\WebApiPrueba\obj\Debug\netcoreapp2.1\WebApiPrueba.genruntimeconfig.cache
